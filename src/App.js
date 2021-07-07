@@ -233,7 +233,7 @@ class App extends React.Component {
         </div>
         <div className="author">
           {' '}
-          Designed and Coded by <br />
+          Designed and Coded by   <br />
           <a href="https://www.linkedin.com/in/satyam-gupta-496860193/" target="_blank">
             Satyam Gupta
           </a>
